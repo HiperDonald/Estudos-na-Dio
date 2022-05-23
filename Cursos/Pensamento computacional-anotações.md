@@ -31,3 +31,7 @@ Processo de pensamento envolvido na expressão de soluções em passos computaci
 - Criatividade e desing
 
 - Facilitador
+
+## Link do curso
+
+[Introdução à Programação e Pensamento Computacional](https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3?back=/track/tqi-fullstack-developer&tab=undefined&moduleId=undefined) 
