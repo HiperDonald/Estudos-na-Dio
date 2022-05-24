@@ -33,5 +33,9 @@
 - **Ctrl + L:** Limpa o prompt de comando do git.
 
 - **Tab:** Auto-completa palavras.
-  
-  
+
+### Link do Curso
+
+[Introdução ao Git e ao GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/tqi-fullstack-developer&tab=undefined&moduleId=undefined)
+
+
